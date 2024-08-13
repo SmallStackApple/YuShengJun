@@ -1,0 +1,2 @@
+# YuShengJun
+object extends YuShengJun
