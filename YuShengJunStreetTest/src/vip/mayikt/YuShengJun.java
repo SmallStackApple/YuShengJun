@@ -9,7 +9,7 @@ import java.net.http.HttpResponse;
 import java.util.Arrays;
 import java.util.Random;
 import java.net.*;
-
+//😡
 public class YuShengJun {
     public HTTP RequestMode = HTTP.GET;
     public FakeIPMode FakeIPmode = FakeIPMode.Default;
